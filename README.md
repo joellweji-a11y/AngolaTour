@@ -66,7 +66,7 @@ Bem-vindo ao **AngolaTour**, uma plataforma moderna e imersiva dedicada a promov
     Crie um arquivo `.env.local` na raiz do projeto e adicione as suas chaves:
     ```ini
     VITE_SUPABASE_URL=sua_url_supabase
-    VITE_SUPABASE_ANON_KEY=sua_anon_key
+    VITE_SUPABASE_ANON_KEY=
     SUPABASE_SERVICE_ROLE_KEY=sua_service_role_key #(Apenas para scripts admin)
     GEMINI_API_KEY=sua_chave_gemini
     ```
